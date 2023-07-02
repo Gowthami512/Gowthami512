@@ -1,9 +1,9 @@
 '''                                       HACKERRANK PROBLEMS
 
-                   i nput                                                  output
+                   input                                   output
              -------------                              ------------
                   ABCDCCDC                                              2
-                   CDC       '''
+                   CDC                                                                                 '''
 string=input()
 findstr=input()
 count=0
