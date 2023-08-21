@@ -1,0 +1,39 @@
+*{
+    font-family: Arial;
+}
+h4{
+    font-size: 30px;
+    font-weight:bold;
+}
+.txt-1{
+    color:brown;
+}
+.pickup,
+.drop{
+    display:block;
+    padding-top:10px;
+    padding-bottom: 8px;
+    padding-right: 105px;
+    margin-bottom: 8px;
+    font-size: 15px;
+}
+
+.request-button{
+    padding:10px 15px 10px;
+    background-color: black;
+    border-radius:5px;
+    color:white;
+    transition:opacity 0.15s;
+    cursor:pointer;
+}
+.request-button:hover{
+    opacity:0.7;
+}
+.schedule-button{
+    padding:11px 20px 11px;
+    background-color: rgb(240, 230, 230);
+    border:1px solid gray;
+    border-radius:5px;
+    margin-left:5px;
+    cursor:pointer;
+}

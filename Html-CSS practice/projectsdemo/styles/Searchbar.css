@@ -1,0 +1,77 @@
+h1{
+    text-align:center;
+    font-size:30px;
+    color:brown;
+}
+h4{
+    color:blue;
+}
+.search-bar{
+    font-size: 20px;
+    border: 1px solid grey;
+    padding:10px 20px 10px;
+    border-radius:8px;
+}
+.google-search-bar{
+    padding:10px 20px 10px;
+    font-size: 12px;
+    border: 1px solid grey;
+    width:400px;
+    border-radius:18px;
+}
+.linkedin-logo{
+    width:20px;
+    object-fit: contain;
+    vertical-align: bottom;
+}
+.linkedin-email{
+    padding:8px 100px 10px;
+}
+.linkedin-button{
+    padding:15px 120px 15px;
+    background-color:blue;
+    color:white;
+    text-align:center;
+    border:none;
+    font-size:15px;
+    border-radius:20px;
+    transition: opacity 0.15s;
+    cursor:pointer;
+}
+.linkedin-button:hover{
+   opacity:0.8; 
+}
+.status{
+    font-size:15px;
+}
+.twitter-logo{
+    width:30px;
+    object-fit:contain;
+    vertical-align:middle;
+}
+.twitt-button{
+    background-color:rgb(43, 98, 201);
+    color:white;
+    border:none;
+    padding: 10px 20px 10px;
+    border-radius:15px;
+    vertical-align:middle;
+    margin-left:100px;
+    cursor:pointer;
+
+}
+.twitt-button:hover{
+   background-color: rgb(243, 228, 228); 
+   color: blue;
+   border:1px solid blue;
+}
+
+.rounded-img{
+    width:50px;
+    object-fit:contain;
+    border-radius:30px;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    background-color: black;
+    border: 2px solid black;
+}
