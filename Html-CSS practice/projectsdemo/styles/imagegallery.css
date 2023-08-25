@@ -1,0 +1,49 @@
+h1{
+    margin-left: 200px;
+    color: brown;
+}
+.img1-con{
+    display:inline-block;
+    border:2px solid whitesmoke;
+    width: 200px;
+    margin-left: 5px;
+    margin-right: 5px;
+    box-shadow: 5px 5px 5px rgb(223, 211, 211);
+}
+.img1{
+    width:200px;
+    object-fit: contain;
+}
+.img2{
+    width:200px;
+    height: 200px;
+    object-fit:contain;
+
+}
+/*.description{
+    background-color: whitesmoke;
+    border:1px solid black;
+    padding:3px;
+    width:200px;
+} */
+p{
+    margin: 1px;
+    padding:2px;
+}
+.name{
+    font-weight:bold;
+    
+}
+/*.followers{
+    margin:1px;
+    padding:2px;
+}*/
+.Add-account{
+    background-color: blue;
+    padding:10px 50px 10px;
+    border:none;
+    border-radius:5px;
+    color:white;
+    margin:5px;
+    cursor:pointer;
+}
